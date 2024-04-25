@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeededMuffin385
 - 👀 I’m interested in learning more about 3D graphics and game development.
-- 🌱 I’m currently learning WebGPU and Rust, and C++.
-- 💞️ I’m looking to collaborate on game engine development.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on game development.
 - 📫 How to reach me? I don't know, seriosly.
 
 <!---
