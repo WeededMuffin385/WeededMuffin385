@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeededMuffin385
-- 👀 I’m interested in learning more about MMO games development.
+- 👀 I’m interested in learning more about MMOs and game development.
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on game development.
+- 💞️ I’m looking to collaborate on making games.
 - 📫 How to reach me? I don't know, seriously.
 
 <!---
